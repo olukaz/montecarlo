@@ -1,5 +1,5 @@
 # montecarlo
-#Marketing Campaign
+Marketing Campaign
 
 import numpy.random as rnd
 import numpy as np
